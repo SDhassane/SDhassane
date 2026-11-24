@@ -16,3 +16,5 @@ Je suis passionné par la création d'applications web complètes et sécurisée
 
 ### 📫 Me contacter :
 [Mon profil LinkedIn](linkedin.com/in/hassan-seddik-a80753367)
+
+[mon gmail](hassanseddik58@gmail.com)
