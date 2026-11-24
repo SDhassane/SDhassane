@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Salut, je suis Hassane Seddik !
 
-<!--
-**SDhassane/SDhassane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Développeur Full Stack (React & Laravel)
 
-Here are some ideas to get you started:
+Je suis passionné par la création d'applications web complètes et sécurisées. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travaille actuellement sur des projets e-Santé et des plateformes de quiz.
+- 🌱 J'apprends en continu sur l'écosystème React et Laravel.
+- 💬 N'hésitez pas à me contacter pour discuter tech !
+
+### 🛠️ Mes compétences :
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📫 Me contacter :
+[Mon profil LinkedIn](linkedin.com/in/hassan-seddik-a80753367)
